@@ -1,1 +1,1 @@
-Burger builder made by using react js
+Burger builder using react js
