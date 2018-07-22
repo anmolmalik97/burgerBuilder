@@ -1,4 +1,4 @@
-# React_Burger_Builder
+# React Burger Builder
 Burger Builder app to create delicious and finger-licking burgers
 Made this app while learning React Js
 ## How to Run the project
